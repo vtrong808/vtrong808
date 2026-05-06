@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Võ Văn Trọng
 
-<!--
-**vtrong808/vtrong808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analyst Intern | Full-Stack Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub space! I am a student at FPT Polytechnic in Ho Chi Minh City, currently working as a Business Analyst Intern at STTech. I am passionate about bridging the gap between complex business requirements and robust technical implementations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do & Current Focus
+*   **Business Analysis:** Experienced in drafting SRS specifications, UML Use Case modeling, and conducting professional analysis for systems like Library Management (LIB) and Digitalization (EDIS).
+*   **Current Development:** Currently building a Support Ticket / Helpdesk module utilizing the ASP.NET Boilerplate (ABP) framework.
+*   **Backend Engineering:** Developed the business logic layer, including Dynamic Pricing features, for a badminton court booking system using Java and Spring Boot.
+
+### 💻 Tech Stack & Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### 🌐 Connect With Me
+*   **Website:** [shoplaptopsasaki.id.vn](http://shoplaptopsasaki.id.vn)
+*   **Email:** vtrong808@gmail.com
+*   **LinkedIn:** *(Gắn link LinkedIn của bạn tại đây)*
+
+---
+*I value clarity, reliable architecture, and continuous learning.*
