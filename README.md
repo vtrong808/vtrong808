@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Võ Văn Trọng
+# Hi there 👋, I'm Van Trone
 
 **Business Analyst Intern | Full-Stack Developer**
 
