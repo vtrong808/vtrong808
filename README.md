@@ -17,9 +17,8 @@ Welcome to my GitHub space! I am a student at FPT Polytechnic in Ho Chi Minh Cit
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 🌐 Connect With Me
-*   **Website:** [shoplaptopsasaki.id.vn](http://shoplaptopsasaki.id.vn)
 *   **Email:** vtrong808@gmail.com
-*   **LinkedIn:** *(Gắn link LinkedIn của bạn tại đây)*
+*   **LinkedIn:** https://www.linkedin.com/in/tr%E1%BB%8Dng-v%C4%83n-63062b3a8/
 
 ---
 *I value clarity, reliable architecture, and continuous learning.*
