@@ -2,7 +2,7 @@
 
 **Business Analyst Intern | Full-Stack Developer**
 
-Welcome to my GitHub space! I am a student at FPT Polytechnic in Ho Chi Minh City, currently working as a Business Analyst Intern at STTech. I am passionate about bridging the gap between complex business requirements and robust technical implementations.
+Welcome to my Gihub world, where it works perfectly… until I deploy it.! I am a student at FPT Polytechnic in Ho Chi Minh City, currently working as a Business Analyst Intern at STTech. I am passionate about bridging the gap between complex business requirements and robust technical implementations.
 
 ### 🚀 What I Do & Current Focus
 *   **Business Analysis:** Experienced in drafting SRS specifications, UML Use Case modeling, and conducting professional analysis for systems like Library Management (LIB) and Digitalization (EDIS).
